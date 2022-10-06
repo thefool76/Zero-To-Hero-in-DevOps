@@ -1,2 +1,10 @@
-# Zero-To-Hero-in-DevOps
-I will be sharing my journey from  0 to Hero in devOps and some Usefull resources that can be Used by everyone.
+
+# Zero To Hero In DevOps🦸
+
+I will be sharing My learning Resources and things which I will be learning and going from a Noob to Pro in DevOps.
+
+## Things I will learn.
+
+- Linux & Unix.
+
+
